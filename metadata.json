@@ -1,0 +1,6 @@
+{
+  "name": "PocketHost Server",
+  "description": "Transform your Android device into a portable local web hosting server to serve websites, APIs, and files over Wi-Fi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
